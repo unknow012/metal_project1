@@ -1,0 +1,39 @@
+/* CSS Document */
+body,table,tr,th,td,ul,ol,li,p {
+	margin: 0;
+	padding: 0;
+	list-style:none;
+}
+body {
+	text-align: center;
+}
+div{
+	display:block;	
+}
+#login ul li input{
+	width:376px;
+	height:48px;
+	border:1px solid #666;
+	border-radius:4px;
+	font-size:18px;
+	color:#fff;
+	padding-left:20px;
+	margin-bottom:15px;
+}
+.btn{ width:125px;
+height:30px;
+background:#666;
+margin-left:3.5px;
+padding:10px 10px; 
+border-radius:6px;
+color:#FFF;
+float:left;
+text-decoration:none;
+}
+a:hover{
+	border:1px solid #FF0;
+}
+.tab{
+	
+	}
+
